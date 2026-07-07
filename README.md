@@ -59,7 +59,7 @@ pip install -r requirements.txt
 Generate the dataset
 
 ```
-01_Data_Generation.ipynb
+Data_Generation_&_Reshaping.ipynb
 ```
 
 ### Step 2
@@ -67,7 +67,7 @@ Generate the dataset
 Train the Transformer
 
 ```
-02_Probability_Preserving_Transformer.ipynb
+Model_Architectures.ipynb
 ```
 
 ---
